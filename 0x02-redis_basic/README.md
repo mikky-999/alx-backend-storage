@@ -1,1 +1,1 @@
-0x02. Redis basic.
+# Solutions to tasks on 0x02. Redis basic
